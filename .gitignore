@@ -1,0 +1,16 @@
+# alll virtual env files
+roshan/
+# all python cache files
+
+__pycache__/
+# all python cache files
+*.pyc
+__pycache__/
+*.csv
+*.json
+*.pkl
+*.h5
+*.log
+venv/
+# all python cache files
+*.pyc
